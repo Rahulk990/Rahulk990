@@ -2,7 +2,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently an undergraduate
+- 🌱 I’m currently an undergraduate at DTU, Delhi, India
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play video games
 
