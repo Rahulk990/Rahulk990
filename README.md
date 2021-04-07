@@ -25,13 +25,13 @@
 <img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="NextJs" width="26px" src="https://user-images.githubusercontent.com/50693372/113817646-4e53c980-9794-11eb-8788-e2ed7e2c05ba.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="ExpressJs" width="26px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" />
+
 
 <br />
 
 ### Other Tools
 
-<img align="left" alt="MongoDB" width="26px" src="https://www.clipartmax.com/png/middle/114-1147615_mongodb-leaf-open-source-nosql-database-startups-mongodb-logo.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -41,7 +41,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Rahul | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/50693372/113819924-a17b4b80-9797-11eb-9453-50fed9accd73.png" />][linkedin]
-[<img align="left" alt="Rahul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Rahul | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />][instagram]
 
 [instagram]: https://instagram.com/rahulv05300
 [linkedin]: https://linkedin.com/in/rahul990
