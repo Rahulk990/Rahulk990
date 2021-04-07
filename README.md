@@ -42,6 +42,7 @@
 
 [<img align="left" alt="Rahul | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/50693372/113819924-a17b4b80-9797-11eb-9453-50fed9accd73.png" />][linkedin]
 [<img align="left" alt="Rahul | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" />][instagram]
+[<img align="left" alt="Rahul | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" />][email]
 
 [c]: https://www.tutorialspoint.com/cprogramming/index.htm
 [c++]: https://www.w3schools.com/cpp/default.asp
@@ -62,3 +63,4 @@
 [github]: https://github.com/
 [instagram]: https://instagram.com/rahulv05300
 [linkedin]: https://linkedin.com/in/rahul990
+[email]: mailto:rahulv0530@gmail.com
