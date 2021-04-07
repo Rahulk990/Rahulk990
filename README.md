@@ -54,7 +54,7 @@
 [sass]: https://sass-lang.com/
 [reactjs]: https://reactjs.org/
 [nextjs]: https://nextjs.org/
-[nodejs]: http://nodejs.org/
+[nodejs]: https://nodejs.org/en/
 [socketio]: https://socket.io/
 [mongodb]: https://www.mongodb.com/
 [firebase]: https://firebase.google.com/
