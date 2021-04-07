@@ -52,7 +52,7 @@
 [graphql]: https://graphql.org/
 [css]: https://www.w3schools.com/css/
 [sass]: https://sass-lang.com/
-[reactjs]: <https://reactjs.org/
+[reactjs]: https://reactjs.org/
 [nextjs]: https://nextjs.org/
 [nodejs]: http://nodejs.org/
 [socketio]: https://socket.io/
