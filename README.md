@@ -38,9 +38,10 @@
 
 <br />
 
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk990&layout=compact&count_private=true"> 
-</p><br>
+    <img src="https://github-readme-stats.vercel.app/api/?username=rahulk990&count_private=true&show_icons=true&theme=dark">
+</p>
 
 <br />
 
