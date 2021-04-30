@@ -38,6 +38,13 @@
 
 <br />
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atish-90&layout=compact&count_private=true"> 
+    <img src="https://github-readme-stats.vercel.app/api/?username=atish-90&count_private=true&show_icons=true&theme=dark">
+</p><br>
+
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Rahul | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/50693372/113819924-a17b4b80-9797-11eb-9453-50fed9accd73.png" />][linkedin]
