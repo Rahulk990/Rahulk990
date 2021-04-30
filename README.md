@@ -39,8 +39,7 @@
 <br />
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atish-90&layout=compact&count_private=true"> 
-    <img src="https://github-readme-stats.vercel.app/api/?username=atish-90&count_private=true&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulk990&layout=compact&count_private=true"> 
 </p><br>
 
 <br />
