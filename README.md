@@ -33,6 +33,7 @@
 
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />][mongodb]
 [<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />][firebase]
+[<img align="left" alt="Webpack" width="26px" src="https://github.com/webpack/media/blob/master/logo/icon-square-small.svg" />][webpack]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
@@ -59,6 +60,7 @@
 [socketio]: https://socket.io/
 [mongodb]: https://www.mongodb.com/
 [firebase]: https://firebase.google.com/
+[webpack]: https://webpack.js.org/
 [vscode]: https://code.visualstudio.com/
 [github]: https://github.com/
 [instagram]: https://instagram.com/rahulv05300
