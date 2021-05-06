@@ -23,7 +23,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactjs]
-[<img align="left" alt="NextJs" width="26px" src="https://user-images.githubusercontent.com/50693372/113817646-4e53c980-9794-11eb-8788-e2ed7e2c05ba.png" />][nextjs]
+[<img align="left" alt="Angular" width="26px" src="https://github.com/angular/angular/raw/master/aio/src/assets/images/logos/angular/angular.png" />][angular]
 [<img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="Socketio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socketio]
 
@@ -34,6 +34,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />][mongodb]
 [<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />][firebase]
 [<img align="left" alt="Webpack" width="26px" src="https://github.com/webpack/media/blob/master/logo/icon-square-small.svg" />][webpack]
+[<img align="left" alt="ElectronJs" width="26px" src="https://avatars.githubusercontent.com/u/13409222?s=200&v=4" />][electronjs]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
@@ -55,12 +56,13 @@
 [css]: https://www.w3schools.com/css/
 [sass]: https://sass-lang.com/
 [reactjs]: https://reactjs.org/
-[nextjs]: https://nextjs.org/
+[angular]: https://angular.io/
 [nodejs]: https://nodejs.org/en/
 [socketio]: https://socket.io/
 [mongodb]: https://www.mongodb.com/
 [firebase]: https://firebase.google.com/
 [webpack]: https://webpack.js.org/
+[electronjs]: https://www.electronjs.org/
 [vscode]: https://code.visualstudio.com/
 [github]: https://github.com/
 [instagram]: https://instagram.com/rahulv05300
