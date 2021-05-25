@@ -27,7 +27,7 @@
 [<img align="left" alt="RxJs" width="26px" src="https://github.com/ReactiveX/rxjs/blob/master/docs_app/assets/Rx_Logo_S.png" />][rxjs]
 [<img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="Socketio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />][socketio]
-[<img align="left" alt="PWA" height="26px" src="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/pwa.png" />][pwa]
+[<img align="left" alt="PWA" height="26px" src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" />][pwa]
 
 <br />
 
