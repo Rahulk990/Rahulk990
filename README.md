@@ -13,13 +13,14 @@
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />][typescript]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="GraphQL" width="26px" src="https://user-images.githubusercontent.com/50693372/113819256-b1466000-9796-11eb-9faf-cf1c68169b83.png" />][graphql]
+[<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />][dart]
 
 <br />
 
 ### Web Technology
 
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactjs]
@@ -32,6 +33,7 @@
 
 ### Other Tools
 
+[<img align="left" alt="Flutter" width="26px" src="https://flutter.dev/images/favicon.png" />][flutter]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />][mongodb]
 [<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />][firebase]
 [<img align="left" alt="Webpack" width="26px" src="https://github.com/webpack/media/blob/master/logo/icon-square-small.svg" />][webpack]
@@ -52,14 +54,16 @@
 [python]: https://www.python.org/
 [javascript]: https://www.w3schools.com/js/default.asp
 [typescript]: https://www.typescriptlang.org/
-[html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [graphql]: https://graphql.org/
+[dart]: https://dart.dev/
+[html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/
 [css]: https://www.w3schools.com/css/
 [sass]: https://sass-lang.com/
 [reactjs]: https://reactjs.org/
 [angular]: https://angular.io/
 [nodejs]: https://nodejs.org/en/
 [socketio]: https://socket.io/
+[flutter]: https://flutter.dev/
 [mongodb]: https://www.mongodb.com/
 [firebase]: https://firebase.google.com/
 [webpack]: https://webpack.js.org/
