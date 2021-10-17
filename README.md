@@ -33,7 +33,7 @@
 
 ### Other Tools
 
-[<img align="left" alt="Flutter" width="26px" src="https://flutter.dev/images/favicon.png" />][flutter]
+[<img align="left" alt="Flutter" width="26px" src="https://flutter.dev/assets/images/shared/brand/flutter/icon/64.png" />][flutter]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />][mongodb]
 [<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />][firebase]
 [<img align="left" alt="Webpack" width="26px" src="https://github.com/webpack/media/blob/master/logo/icon-square-small.svg" />][webpack]
